@@ -53,51 +53,27 @@
 <div class="page-wraper">
 	<div id="loading-icon-bx"></div>
 	<div class="account-form">
-        <div class="account-head" style="background-image:url(assets/images/logo1.png);">
-			<a href="home"><img src="assets/images/logo1.png" alt=""></a>
+		<div class="account-head" style="background-image:url(assets/images/logo1.png);">
+			<a href="index.html"><img src="assets/images/logo1.png" alt=""></a>
 		</div>
 		<div class="account-form-inner">
 			<div class="account-container">
 				<div class="heading-bx left">
-					<h2 class="title-head">Masuk <span>ke Akun</span></h2>
-					<p>Tidak Punya Akun? <a href="register">Buat akun sekarang</a></p>
+					<h2 class="title-head">Lupa <span>Password</span></h2>
+					<p>Sudah Punya akun ? Masuk <a href="login">Klik Disini</a></p>
 				</div>	
 				<form class="contact-bx">
 					<div class="row placeani">
 						<div class="col-lg-12">
 							<div class="form-group">
 								<div class="input-group">
-									<label>Nama</label>
-									<input name="dzName" type="text" required="" class="form-control">
+									<label>Email kamu</label>
+									<input name="dzName" type="email" required="" class="form-control">
 								</div>
-							</div>
-						</div>
-						<div class="col-lg-12">
-							<div class="form-group">
-								<div class="input-group"> 
-									<label>Masukan Password</label>
-									<input name="dzEmail" type="password" class="form-control" required="">
-								</div>
-							</div>
-						</div>
-						<div class="col-lg-12">
-							<div class="form-group form-forget">
-								<div class="custom-control custom-checkbox">
-									<input type="checkbox" class="custom-control-input" id="customControlAutosizing">
-									<label class="custom-control-label" for="customControlAutosizing">Ingat Saya</label>
-								</div>
-								<a href="lupapassword" class="ml-auto">Lupa Password?</a>
 							</div>
 						</div>
 						<div class="col-lg-12 m-b30">
-							<button name="submit" type="submit" value="Submit" class="btn button-md">Masuk</button>
-						</div>
-						<div class="col-lg-12">
-							<h6>Atau masuk dengan media lain</h6>
-							<div class="d-flex">
-								<a class="btn flex-fill m-r5 facebook" href="#"><i class="fa fa-facebook"></i>Facebook</a>
-								<a class="btn flex-fill m-l5 google-plus" href="#"><i class="fa fa-google-plus"></i>Google Plus</a>
-							</div>
+							<button name="submit" type="submit" value="Submit" class="btn button-md">Submit</button>
 						</div>
 					</div>
 				</form>

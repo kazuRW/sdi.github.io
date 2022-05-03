@@ -157,7 +157,7 @@
     <div class="page-content bg-white">
         <!-- Main Slider -->
         <div class="rev-slider">
-			<div id="rev_slider_486_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container" data-alias="news-gallery36" data-source="gallery" style="margin:0px auto;background-color:#ffffff;padding:0px;margin-top:0px;margin-bottom:0px;">
+			<div id="rev_slider_486_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container" data-alias="news-gallery36" data-source="gallery" style="margin:0px auto;background-color:normal;padding:0px;margin-top:0px;margin-bottom:0px;">
 				<!-- START REVOLUTION SLIDER 5.3.0.2 fullwidth mode -->
 				<div id="rev_slider_486_1" class="rev_slider fullwidthabanner" style="display:none;" data-version="5.3.0.2">
 					<ul>	<!-- SLIDE  -->
@@ -495,36 +495,33 @@
 									<div class="feature-box-sm radius bg-white">
 										<i class="fa fa-bank text-primary"></i>
 									</div>
-									<h4><a href="#">Best Industry Leaders</a></h4>
-									<a href="#" class="btn radius-xl">View More</a>
+									<h4><a href="#">Membuka Pendaftaran bagi Siswa Siswi baru</a></h4>
 								</div>
 							</div>
 						</div>
 						<div class="col-lg-4 col-md-4 col-sm-6">
 							<div class="service-bx">
 								<div class="action-box">
-									<img src="assets/images/2.png " alt="" style="width:500px;height:300px;">
+									<img src="assets/images/2.png " alt="" style="width:500px;height:330px;">
 								</div>
 								<div class="info-bx text-center">
 									<div class="feature-box-sm radius bg-white">
 										<i class="fa fa-book text-primary"></i>
 									</div>
-									<h4><a href="#">Learn Courses Online</a></h4>
-									<a href="#" class="btn radius-xl">View More</a>
+									<h4><a href="#">PPDB Secara Daring</a></h4>
 								</div>
 							</div>
 						</div>
 						<div class="col-lg-4 col-md-4 col-sm-12">
 							<div class="service-bx m-b0">
 								<div class="action-box">
-									<img src="assets/images/3.png" alt="" style="width:500px;height:300px;">
+									<img src="assets/images/3.png" alt="" style="width:500px;height:330px;">
 								</div>
 								<div class="info-bx text-center">
 									<div class="feature-box-sm radius bg-white">
 										<i class="fa fa-file-text-o text-primary"></i>
 									</div>
-									<h4><a href="#">Book Library & Store</a></h4>
-									<a href="#" class="btn radius-xl">View More</a>
+									<h4><a href="#">Syarat dan Ketentuan</a></h4>
 								</div>
 							</div>
 						</div>
@@ -539,7 +536,7 @@
 					<div class="row">
 						<div class="col-md-12 heading-bx left">
 							<h2 class="title-head">Formulir <span>Pendaftaran</span></h2>
-							<p>It is a long established fact that a reader will be distracted by the readable content of a page</p>
+							<p>Pendaftaran bisa berubah ubah sewaktu waktu tergantung dari pihak sekolah</p>
 						</div>
 					</div>
 					<div class="row">
