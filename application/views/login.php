@@ -59,16 +59,15 @@
 		<div class="account-form-inner">
 			<div class="account-container">
 				<div class="heading-bx left">
-					<h2 class="title-head">Masuk <span>ke Akun</span></h2>
-					<p>Tidak Punya Akun? <a href="register">Buat akun sekarang</a></p>
+					<h2 class="title-head">Masuk <span>ke Akun Staff</span></h2>
 				</div>	
 				<form class="contact-bx">
 					<div class="row placeani">
 						<div class="col-lg-12">
 							<div class="form-group">
 								<div class="input-group">
-									<label>Nama</label>
-									<input name="dzName" type="text" required="" class="form-control">
+									<label>ID login</label>
+									<input name="username" type="text" required="" class="form-control">
 								</div>
 							</div>
 						</div>
@@ -76,7 +75,7 @@
 							<div class="form-group">
 								<div class="input-group"> 
 									<label>Masukan Password</label>
-									<input name="dzEmail" type="password" class="form-control" required="">
+									<input name="password" type="password" class="form-control" required="">
 								</div>
 							</div>
 						</div>
@@ -86,18 +85,10 @@
 									<input type="checkbox" class="custom-control-input" id="customControlAutosizing">
 									<label class="custom-control-label" for="customControlAutosizing">Ingat Saya</label>
 								</div>
-								<a href="lupapassword" class="ml-auto">Lupa Password?</a>
 							</div>
 						</div>
 						<div class="col-lg-12 m-b30">
 							<button name="submit" type="submit" value="Submit" class="btn button-md">Masuk</button>
-						</div>
-						<div class="col-lg-12">
-							<h6>Atau masuk dengan media lain</h6>
-							<div class="d-flex">
-								<a class="btn flex-fill m-r5 facebook" href="#"><i class="fa fa-facebook"></i>Facebook</a>
-								<a class="btn flex-fill m-l5 google-plus" href="#"><i class="fa fa-google-plus"></i>Google Plus</a>
-							</div>
 						</div>
 					</div>
 				</form>

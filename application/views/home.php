@@ -63,14 +63,13 @@
 				<div class="row d-flex justify-content-between">
 					<div class="topbar-left">
 						<ul>
-							<li><a href="faq-1.html"><i class="fa fa-question-circle"></i>Tanyakan Pertanyaan</a></li>
-							<li><a href="javascript:;"><i class="fa fa-envelope-o"></i>sdiassuryaniyah@gmail.com</a></li>
+							<li><a href="kontak"><i class="fa fa-question-circle"></i>Tanyakan Pertanyaan</a></li>
+							<li><a href="#"><i class="fa fa-envelope-o"></i>sdiassuryaniyah@gmail.com</a></li>
 						</ul>
 					</div>
 					<div class="topbar-right">
 						<ul>
-							<li><a href="login">Masuk</a></li>
-							<li><a href="register">Registrasi</a></li>
+							<li><a href="login">Masuk Staff</a></li>
 						</ul>
 					</div>
 				</div>
@@ -115,36 +114,29 @@
                         <ul class="nav navbar-nav">	
 							<li class="active"><a href="javascript:;">Beranda <i class="fa fa-chevron-down"></i></a>
 								<ul class="sub-menu">
-									<li><a href="home">Website PPDB</a></li>
-									<li><a href="http://sdi-assuryaniyah.sch.id/">Website SDI ASSURYANIYAH</a></li>
+									<li><a href="http://sdi-assuryaniyah.sch.id/">Website SDI ASSURYANIYAH (UTAMA)</a></li>
+									<li><a href="home">Website PPDB SDI ASSURYANIYAH</a></li>
 								</ul>
 							</li>
-							<li><a href="javascript:;">Pages <i class="fa fa-chevron-down"></i></a>
+							<li><a href="#">Pages <i class="fa fa-chevron-down"></i></a>
 								<ul class="sub-menu">
 									</li>
-									<li><a href="javascript:;">Jadwal<i class="fa fa-angle-right"></i></a>
+									<li><a href="javascript:;">Jadwal / Kalender PPDB<i class="fa fa-angle-right"></i></a>
 										<ul class="sub-menu">
-											<li><a href="faq-1.html">Jadwal PPDB</a></li>
+											<li><a href="jadwal">Jadwal PPDB</a></li>
+											<li><a href="jadwal">Kalender PPDB</a></li>
 										</ul>
 									</li>
-									<li><a href="javascript:;">Hubungi Kami</a>
-								</ul>
-							</li>
-							<li class="nav-dashboard"><a href="javascript:;">Dashboard <i class="fa fa-chevron-down"></i></a>
-								<ul class="sub-menu">
-									<li><a href="admin/index.html">Dashboard</a></li>
-									<li><a href="javascript:;">Kalender<i class="fa fa-angle-right"></i></a>
-										<ul class="sub-menu">
-											<li><a href="admin/basic-calendar.html">Kalender PPDB</a></li>
-										</ul>
-									</li>
+									<li><a href="formpendaftaran">Formulir Pendaftaran</a>
+									<li><a href="hasilseleksi">Hasil Seleksi</a>
+									<li><a href="kontak">Hubungi Kami</a>
 								</ul>
 							</li>
 						</ul>
 						<div class="nav-social-link">
-							<a href="javascript:;"><i class="fa fa-facebook"></i></a>
-							<a href="javascript:;"><i class="fa fa-google-plus"></i></a>
-							<a href="javascript:;"><i class="fa fa-linkedin"></i></a>
+							<a href="facebook"><i class="fa fa-facebook"></i></a>
+							<a href="twitter"><i class="fa fa-twitter"></i></a>
+							<a href="instagram"><i class="fa fa-instagram"></i></a>
 						</div>
                     </div>
 					<!-- Navigation Menu END ==== -->
@@ -157,7 +149,7 @@
     <div class="page-content bg-white">
         <!-- Main Slider -->
         <div class="rev-slider">
-			<div id="rev_slider_486_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container" data-alias="news-gallery36" data-source="gallery" style="margin:0px auto;background-color:normal;padding:0px;margin-top:0px;margin-bottom:0px;">
+			<div id="rev_slider_486_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container" data-alias="news-gallery36" data-source="gallery" style="margin:0px auto;background-color:#ffffff;padding:0px;margin-top:0px;margin-bottom:0px;">
 				<!-- START REVOLUTION SLIDER 5.3.0.2 fullwidth mode -->
 				<div id="rev_slider_486_1" class="rev_slider fullwidthabanner" style="display:none;" data-version="5.3.0.2">
 					<ul>	<!-- SLIDE  -->
@@ -184,6 +176,160 @@
 						data-description="Science says that Women are generally happier">
 							<!-- MAIN IMAGE -->
 							<img src="assets/images/logo2.jpg" alt="" 
+								data-bgposition="center center" 
+								data-bgfit="cover" 
+								data-bgrepeat="no-repeat" 
+								data-bgparallax="10" 
+								class="rev-slidebg" 
+								data-no-retina />
+								
+							<!-- LAYER NR. 1 -->
+							<div class="tp-caption tp-shape tp-shapewrapper " 
+								id="slide-100-layer-1" 
+								data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
+								data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']" 
+								data-width="full"
+								data-height="full"
+								data-whitespace="nowrap"
+								data-type="shape" 
+								data-basealign="slide" 
+								data-responsive_offset="off" 
+								data-responsive="off"
+								data-frames='[{"from":"opacity:0;","speed":1,"to":"o:1;","delay":0,"ease":"Power4.easeOut"},{"delay":"wait","speed":1,"to":"opacity:0;","ease":"Power4.easeOut"}]'
+								data-textAlign="['left','left','left','left']"
+								data-paddingtop="[0,0,0,0]"
+								data-paddingright="[0,0,0,0]"
+								data-paddingbottom="[0,0,0,0]"
+								data-paddingleft="[0,0,0,0]"
+								style="z-index: 5;background-color:rgba(2, 0, 11, 0.80);border-color:rgba(0, 0, 0, 0);border-width:0px;"> </div>	
+							<!-- LAYER NR. 2 -->
+							<div class="tp-caption Newspaper-Title   tp-resizeme" 
+								id="slide-100-layer-2" 
+								data-x="['center','center','center','center']" 
+								data-hoffset="['0','0','0','0']" 
+								data-y="['top','top','top','top']" 
+								data-voffset="['250','250','250','240']" 
+								data-fontsize="['50','50','50','30']"
+								data-lineheight="['55','55','55','35']"
+								data-width="full"
+								data-height="none"
+								data-whitespace="normal"
+								data-type="text" 
+								data-responsive_offset="on" 
+								data-frames='[{"from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]'
+								data-textAlign="['center','center','center','center']"
+								data-paddingtop="[0,0,0,0]"
+								data-paddingright="[0,0,0,0]"
+								data-paddingbottom="[10,10,10,10]"
+								data-paddingleft="[0,0,0,0]"
+								style="z-index: 6; font-family:rubik; font-weight:700; text-align:center; white-space: normal;">
+									Selamat datang di PPDB SDI ASSURYANIYAH
+							</div>
+
+							<!-- LAYER NR. 3 -->
+							<div class="tp-caption Newspaper-Subtitle   tp-resizeme" 
+								id="slide-100-layer-3" 
+								data-x="['center','center','center','center']" 
+								data-hoffset="['0','0','0','0']" 
+								data-y="['top','top','top','top']" 
+								data-voffset="['210','210','210','210']" 
+								data-width="none"
+								data-height="none"
+								data-whitespace="nowrap"
+								data-type="text" 
+								data-responsive_offset="on"
+								data-frames='[{"from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]'
+								data-textAlign="['left','left','left','left']"
+								data-paddingtop="[0,0,0,0]"
+								data-paddingright="[0,0,0,0]"
+								data-paddingbottom="[0,0,0,0]"
+								data-paddingleft="[0,0,0,0]"
+								style="z-index: 7; white-space: nowrap; color:#fff; font-family:rubik; font-size:18px; font-weight:400;">
+									Menjadi Lebih Baik
+							</div>
+							
+							<!-- LAYER NR. 3 -->
+							<div class="tp-caption Newspaper-Subtitle   tp-resizeme" 
+								id="slide-100-layer-4" 
+								data-x="['center','center','center','center']" 
+								data-hoffset="['0','0','0','0']" 
+								data-y="['top','top','top','top']" 
+								data-voffset="['320','320','320','290']" 
+								data-width="['800','800','700','420']"
+								data-height="['100','100','100','120']"
+								data-whitespace="unset"
+								data-type="text" 
+								data-responsive_offset="on"
+								data-frames='[{"from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]'
+								data-textAlign="['center','center','center','center']"
+								data-paddingtop="[0,0,0,0]"
+								data-paddingright="[0,0,0,0]"
+								data-paddingbottom="[0,0,0,0]"
+								data-paddingleft="[0,0,0,0]"
+								style="z-index: 7; text-transform:capitalize; white-space: unset; color:#fff; font-family:rubik; font-size:18px; line-height:28px; font-weight:400;">
+								Terdepan Dalam Prestasi Dan Pengembangan Bakat Di Level Nasional Yang Berakhlaqul Karimah
+							</div>
+							<!-- LAYER NR. 4 -->
+							<div class="tp-caption Newspaper-Button rev-btn " 
+								id="slide-100-layer-5" 
+								data-x="['center','center','center','center']" 
+								data-hoffset="['90','80','75','90']" 
+								data-y="['top','top','top','top']" 
+								data-voffset="['400','400','400','420']" 
+								data-width="none"
+								data-height="none"
+								data-whitespace="nowrap"
+								data-type="button" 
+								data-responsive_offset="on" 
+								data-responsive="off"
+								data-frames='[{"from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;","ease":"Power3.easeInOut"},{"frame":"hover","speed":"300","ease":"Power1.easeInOut","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(0, 0, 0, 1.00);bg:rgba(255, 255, 255, 1.00);bc:rgba(255, 255, 255, 1.00);bw:1px 1px 1px 1px;"}]'
+								data-textAlign="['center','center','center','center']"
+								data-paddingtop="[12,12,12,12]"
+								data-paddingright="[30,35,35,15]"
+								data-paddingbottom="[12,12,12,12]"
+								data-paddingleft="[30,35,35,15]"
+							<div class="tp-caption Newspaper-Button rev-btn" 
+								id="slide-100-layer-6" 
+								data-x="['center','center','center','center']" 
+								data-hoffset="['-90','-80','-75','-90']" 
+								data-y="['top','top','top','top']" 
+								data-voffset="['400','400','400','420']" 
+								data-width="none"
+								data-height="none"
+								data-whitespace="nowrap"
+								data-type="button" 
+								data-responsive_offset="on" 
+								data-responsive="off"
+								data-frames='[{"from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;","ease":"Power3.easeInOut"},{"frame":"hover","speed":"300","ease":"Power1.easeInOut","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(0, 0, 0, 1.00);bg:rgba(255, 255, 255, 1.00);bc:rgba(255, 255, 255, 1.00);bw:1px 1px 1px 1px;"}]'
+								data-textAlign="['center','center','center','center']"
+								data-paddingtop="[12,12,12,12]"
+								data-paddingright="[30,35,35,15]"
+								data-paddingbottom="[12,12,12,12]"
+								data-paddingleft="[30,35,35,15]"
+						</li>
+						<li data-index="rs-200" 
+						data-transition="parallaxvertical" 
+						data-slotamount="default" 
+						data-hideafterloop="0" 
+						data-hideslideonmobile="off" 
+						data-easein="default" 
+						data-easeout="default" 
+						data-masterspeed="default" 
+						data-thumb="assets/images/logo2.jpg" 
+						data-rotate="0" 
+						data-fstransition="fade" 
+						data-fsmasterspeed="1500" 
+						data-fsslotamount="7" 
+						data-saveperformance="off" 
+						data-title="A STUDY ON HAPPINESS" 
+						data-param1="" data-param2="" 
+						data-param3="" data-param4="" 
+						data-param5="" data-param6="" 
+						data-param7="" data-param8="" 
+						data-param9="" data-param10="" 
+						data-description="Science says that Women are generally happier">
+							<!-- MAIN IMAGE -->
+							<img src="assets/images/logo4.jpg" alt="" 
 								data-bgposition="center center" 
 								data-bgfit="cover" 
 								data-bgrepeat="no-repeat" 
@@ -338,142 +484,7 @@
 						data-param7="" data-param8="" 
 						data-param9="" data-param10="" 
 						data-description="Science says that Women are generally happier">
-							<!-- MAIN IMAGE -->
-							<img src="assets/images/logo4.jpg" alt="" 
-								data-bgposition="center center" 
-								data-bgfit="cover" 
-								data-bgrepeat="no-repeat" 
-								data-bgparallax="10" 
-								class="rev-slidebg" 
-								data-no-retina />
-								
-							<!-- LAYER NR. 1 -->
-							<div class="tp-caption tp-shape tp-shapewrapper " 
-								id="slide-200-layer-1" 
-								data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
-								data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']" 
-								data-width="full"
-								data-height="full"
-								data-whitespace="nowrap"
-								data-type="shape" 
-								data-basealign="slide" 
-								data-responsive_offset="off" 
-								data-responsive="off"
-								data-frames='[{"from":"opacity:0;","speed":1,"to":"o:1;","delay":0,"ease":"Power4.easeOut"},{"delay":"wait","speed":1000,"to":"opacity:1;","ease":"Power4.easeOut"}]'
-								data-textAlign="['left','left','left','left']"
-								data-paddingtop="[0,0,0,0]"
-								data-paddingright="[0,0,0,0]"
-								data-paddingbottom="[0,0,0,0]"
-								data-paddingleft="[0,0,0,0]"> 
-							</div>
-
-							<!-- LAYER NR. 2 -->
-							<div class="tp-caption Newspaper-Title   tp-resizeme" 
-								id="slide-200-layer-2" 
-								data-x="['center','center','center','center']" 
-								data-hoffset="['0','0','0','0']" 
-								data-y="['top','top','top','top']" 
-								data-voffset="['250','250','250','240']" 
-								data-fontsize="['50','50','50','30']"
-								data-lineheight="['55','55','55','35']"
-								data-width="full"
-								data-height="none"
-								data-whitespace="normal"
-								data-type="text" 
-								data-responsive_offset="on" 
-								data-frames='[{"from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]'
-								data-textAlign="['center','center','center','center']"
-								data-paddingtop="[0,0,0,0]"
-								data-paddingright="[0,0,0,0]"
-								data-paddingbottom="[10,10,10,10]"
-								data-paddingleft="[0,0,0,0]"
-								style="z-index: 6; font-family:rubik; font-weight:700; text-align:center; white-space: normal;text-transform:uppercase;">
-									Selamat datang di PPDB SDI ASSURYANIYAH
-							</div>
-
-							<!-- LAYER NR. 3 -->
-							<div class="tp-caption Newspaper-Subtitle   tp-resizeme" 
-								id="slide-200-layer-3" 
-								data-x="['center','center','center','center']" 
-								data-hoffset="['0','0','0','0']" 
-								data-y="['top','top','top','top']" 
-								data-voffset="['210','210','210','210']" 
-								data-width="none"
-								data-height="none"
-								data-whitespace="nowrap"
-								data-type="text" 
-								data-responsive_offset="on"
-								data-frames='[{"from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]'
-								data-textAlign="['left','left','left','left']"
-								data-paddingtop="[0,0,0,0]"
-								data-paddingright="[0,0,0,0]"
-								data-paddingbottom="[0,0,0,0]"
-								data-paddingleft="[0,0,0,0]"
-								style="z-index: 7; white-space: nowrap;text-transform:uppercase; color:#fff; font-family:rubik; font-size:18px; font-weight:400;">
-									Menjadi lebih baik
-							</div>
-							
-							<!-- LAYER NR. 3 -->
-							<div class="tp-caption Newspaper-Subtitle   tp-resizeme" 
-								id="slide-200-layer-4" 
-								data-x="['center','center','center','center']" 
-								data-hoffset="['0','0','0','0']" 
-								data-y="['top','top','top','top']" 
-								data-voffset="['320','320','320','290']" 
-								data-width="['800','800','700','420']"
-								data-height="['100','100','100','120']"
-								data-whitespace="unset"
-								data-type="text" 
-								data-responsive_offset="on"
-								data-frames='[{"from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]'
-								data-textAlign="['center','center','center','center']"
-								data-paddingtop="[0,0,0,0]"
-								data-paddingright="[0,0,0,0]"
-								data-paddingbottom="[0,0,0,0]"
-								data-paddingleft="[0,0,0,0]"
-								style="z-index: 7; text-transform:capitalize; white-space: unset; color:#fff; font-family:rubik; font-size:18px; line-height:28px; font-weight:400;">
-									Terdepan Dalam Prestasi Dan Pengembangan Bakat Di Level Nasional Yang Berakhlaqul Karimah
-							</div>
-							<!-- LAYER NR. 4 -->
-							<div class="tp-caption Newspaper-Button rev-btn " 
-								id="slide-200-layer-5" 
-								data-x="['center','center','center','center']" 
-								data-hoffset="['90','80','75','90']" 
-								data-y="['top','top','top','top']" 
-								data-voffset="['400','400','400','420']" 
-								data-width="none"
-								data-height="none"
-								data-whitespace="nowrap"
-								data-type="button" 
-								data-responsive_offset="on" 
-								data-responsive="off"
-								data-frames='[{"from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;","ease":"Power3.easeInOut"},{"frame":"hover","speed":"300","ease":"Power1.easeInOut","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(0, 0, 0, 1.00);bg:rgba(255, 255, 255, 1.00);bc:rgba(255, 255, 255, 1.00);bw:1px 1px 1px 1px;"}]'
-								data-textAlign="['center','center','center','center']"
-								data-paddingtop="[12,12,12,12]"
-								data-paddingright="[30,35,35,15]"
-								data-paddingbottom="[12,12,12,12]"
-								data-paddingleft="[30,35,35,15]"
-								style="z-index: 8; white-space: nowrap; outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer; background-color:var(--primary) !important; border:0; border-radius:30px; margin-right:5px;">Selengkapnya </div>
-							<div class="tp-caption Newspaper-Button rev-btn" 
-								id="slide-200-layer-6" 
-								data-x="['center','center','center','center']" 
-								data-hoffset="['-90','-80','-75','-90']" 
-								data-y="['top','top','top','top']" 
-								data-voffset="['400','400','400','420']" 
-								data-width="none"
-								data-height="none"
-								data-whitespace="nowrap"
-								data-type="button" 
-								data-responsive_offset="on" 
-								data-responsive="off"
-								data-frames='[{"from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;","ease":"Power3.easeInOut"},{"frame":"hover","speed":"300","ease":"Power1.easeInOut","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(0, 0, 0, 1.00);bg:rgba(255, 255, 255, 1.00);bc:rgba(255, 255, 255, 1.00);bw:1px 1px 1px 1px;"}]'
-								data-textAlign="['center','center','center','center']"
-								data-paddingtop="[12,12,12,12]"
-								data-paddingright="[30,35,35,15]"
-								data-paddingbottom="[12,12,12,12]"
-								data-paddingleft="[30,35,35,15]"
-								style="z-index: 8; white-space: nowrap; outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer; border-radius:30px;">Hubungi Kami</div>
-						</li>
+</li>
 						<!-- SLIDE  -->
 					</ul>
 				</div><!-- END REVOLUTION SLIDER -->  
@@ -495,33 +506,36 @@
 									<div class="feature-box-sm radius bg-white">
 										<i class="fa fa-bank text-primary"></i>
 									</div>
-									<h4><a href="#">Membuka Pendaftaran bagi Siswa Siswi baru</a></h4>
+									<h4><a href="#">Best Industry Leaders</a></h4>
+									<a href="#" class="btn radius-xl">View More</a>
 								</div>
 							</div>
 						</div>
 						<div class="col-lg-4 col-md-4 col-sm-6">
 							<div class="service-bx">
 								<div class="action-box">
-									<img src="assets/images/2.png " alt="" style="width:500px;height:330px;">
+									<img src="assets/images/2.png " alt="" style="width:500px;height:300px;">
 								</div>
 								<div class="info-bx text-center">
 									<div class="feature-box-sm radius bg-white">
 										<i class="fa fa-book text-primary"></i>
 									</div>
-									<h4><a href="#">PPDB Secara Daring</a></h4>
+									<h4><a href="#">Learn Courses Online</a></h4>
+									<a href="#" class="btn radius-xl">View More</a>
 								</div>
 							</div>
 						</div>
 						<div class="col-lg-4 col-md-4 col-sm-12">
 							<div class="service-bx m-b0">
 								<div class="action-box">
-									<img src="assets/images/3.png" alt="" style="width:500px;height:330px;">
+									<img src="assets/images/3.png" alt="" style="width:500px;height:300px;">
 								</div>
 								<div class="info-bx text-center">
 									<div class="feature-box-sm radius bg-white">
 										<i class="fa fa-file-text-o text-primary"></i>
 									</div>
-									<h4><a href="#">Syarat dan Ketentuan</a></h4>
+									<h4><a href="#">Book Library & Store</a></h4>
+									<a href="#" class="btn radius-xl">View More</a>
 								</div>
 							</div>
 						</div>
@@ -536,7 +550,7 @@
 					<div class="row">
 						<div class="col-md-12 heading-bx left">
 							<h2 class="title-head">Formulir <span>Pendaftaran</span></h2>
-							<p>Pendaftaran bisa berubah ubah sewaktu waktu tergantung dari pihak sekolah</p>
+							<p>Brosur SDI ASSURYANIYAH</p>
 						</div>
 					</div>
 					<div class="row">
@@ -548,24 +562,8 @@
 									<a href="#" class="btn">Selengkapnya</a>
 								</div>
 								<div class="info-bx text-center">
-									<h5><a href="#">Introduction EduChamp – LMS plugin</a></h5>
-									<span>Programming</span>
-								</div>
-								<div class="cours-more-info">
-									<div class="review">
-										<span>3 Review</span>
-										<ul class="cours-star">
-											<li class="active"><i class="fa fa-star"></i></li>
-											<li class="active"><i class="fa fa-star"></i></li>
-											<li class="active"><i class="fa fa-star"></i></li>
-											<li><i class="fa fa-star"></i></li>
-											<li><i class="fa fa-star"></i></li>
-										</ul>
-									</div>
-									<div class="price">
-										<del>$190</del>
-										<h5>$120</h5>
-									</div>
+									<h5><a href="#">Alur PPDB</a></h5>
+									<span>Mendaftar di SDI Assuryaniyah dan dapatkan nilai terbaik</span>
 								</div>
 							</div>
 						</div>
@@ -576,24 +574,8 @@
 									<a href="#" class="btn">Selengkapnya</a>
 								</div>
 								<div class="info-bx text-center">
-									<h5><a href="#">Introduction EduChamp – LMS plugin</a></h5>
-									<span>Programming</span>
-								</div>
-								<div class="cours-more-info">
-									<div class="review">
-										<span>3 Review</span>
-										<ul class="cours-star">
-											<li class="active"><i class="fa fa-star"></i></li>
-											<li class="active"><i class="fa fa-star"></i></li>
-											<li class="active"><i class="fa fa-star"></i></li>
-											<li><i class="fa fa-star"></i></li>
-											<li><i class="fa fa-star"></i></li>
-										</ul>
-									</div>
-									<div class="price">
-										<del>$190</del>
-										<h5>$120</h5>
-									</div>
+									<h5><a href="#">Harga</a></h5>
+									<span>Biaya harga yang sudah di tetapkan</span>
 								</div>
 							</div>
 						</div>
@@ -604,24 +586,8 @@
 									<a href="#" class="btn">Selengkapnya</a>
 								</div>
 								<div class="info-bx text-center">
-									<h5><a href="#">Introduction EduChamp – LMS plugin</a></h5>
-									<span>Programming</span>
-								</div>
-								<div class="cours-more-info">
-									<div class="review">
-										<span>3 Review</span>
-										<ul class="cours-star">
-											<li class="active"><i class="fa fa-star"></i></li>
-											<li class="active"><i class="fa fa-star"></i></li>
-											<li class="active"><i class="fa fa-star"></i></li>
-											<li><i class="fa fa-star"></i></li>
-											<li><i class="fa fa-star"></i></li>
-										</ul>
-									</div>
-									<div class="price">
-										<del>$190</del>
-										<h5>$120</h5>
-									</div>
+									<h5><a href="#">Persyaratan Masuk</a></h5>
+									<span>Telah Dibuka Penerimaan siswa/siswi baru</span>
 								</div>
 							</div>
 						</div>
@@ -631,6 +597,16 @@
 			</div>
 			<!-- Popular Courses END -->
     </footer>
+
+	<div class="copyrights">
+        <div class="container">
+            <div class="footer-distributed">
+                <div class="footer-center">                   
+                    <p class="SDI ASSURYANIYAH">All Rights Reserved. &copy; 2022 <a href="#"></a> Design By : <a href="https://html.design/">SDI ASSURYANIYAH</a></p>
+                </div>
+            </div>
+        </div><!-- end container -->
+    </div><!-- end copyrights -->
     <!-- Footer END ==== -->
     <button class="back-to-top fa fa-chevron-up" ></button>
 </div>
